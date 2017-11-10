@@ -42,4 +42,5 @@ func main() {
 ![](http://ww4.sinaimg.cn/large/0060lm7Tly1flc6eecohnj30gy05smxl.jpg)
 
 ### ab测试
+参数-n是请求的数量，-c是并发的请求数，-n 1000 -c 100也就是每次同时发100个请求，一共10次。结果中有总时间，失败的请求数，请求的平均响应时间，吞吐率，传输率等，还有请求完成时间中各个部分的情况，有助于分析服务器
 ![F5dRd.png](https://s1.simimg.com/2017/11/10/F5dRd.png)
