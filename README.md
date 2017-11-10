@@ -42,4 +42,4 @@ func main() {
 ![](http://ww4.sinaimg.cn/large/0060lm7Tly1flc6eecohnj30gy05smxl.jpg)
 
 ### ab测试
-![](https://simimg.com/i/F5dRd)
+![F5dRd.png](https://s1.simimg.com/2017/11/10/F5dRd.png)
