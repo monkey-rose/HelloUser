@@ -11,13 +11,11 @@
 * 很棒的开箱即用特性
 * 完全兼容 http.HandlerFunc 接口
 
->当然，对于我们这个简单的程序来说，不能充分体会到 martini 框架的好处。
-
->首先安装 martini 包:
+当然，对于我们这个简单的程序来说，不能充分体会到 martini 框架的好处。首先安装 martini 包:
 
 >go get github.com/go-martini/martini
 
->代码：
+代码：
 ```
 //server.go
 package main
@@ -42,3 +40,6 @@ func main() {
 
 #### 网页
 ![](http://ww4.sinaimg.cn/large/0060lm7Tly1flc6eecohnj30gy05smxl.jpg)
+
+### ab测试
+![](https://simimg.com/i/F5dRd)
